@@ -1,0 +1,10 @@
+! name: GameDev Assets
+! description: Filters for game development asset marketplaces
+! public: true
+! author: Avafe
+! issues: https://github.com/ImAvafe/BraveGoggles/issues
+! license: MIT
+
+$boost=3,site=assetstore.unity.com
+$boost=3,site=unrealengine.com/marketplace
+$boost=1,site=itch.io/game-assets
